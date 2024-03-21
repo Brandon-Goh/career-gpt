@@ -10,7 +10,7 @@ If you're looking for a high-quality and visually appealing, feature-rich Next.j
 - All Essential Business Sections and Pages
 - High-quality and Clean Design
 - Dark and Light Version
-- TypeScript Support
+- TypeScript Supportdd
 and Much More ...
 
 ### 🙌 Detailed comparison between the Free and Pro versions of Startup
