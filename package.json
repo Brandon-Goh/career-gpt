@@ -24,6 +24,7 @@
     "@types/node": "^20.8.9",
     "@types/react": "^18.2.33",
     "autoprefixer": "^10.4.17",
+    "eslint-config-prettier": "^9.1.0",
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.35",
     "prettier": "^3.2.5",
